@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>ResumeRadar — an AI-powered resume analyzer using transformer-based NLP<br>ML/AI projects involving NLP, LLMs, RAG pipelines, or MLOps infrastructure<br>Scaling transformer inference and deploying LLM-powered apps<br>LangChain, RAG architectures, Generative AI, and LLM fine-tuning<br>ML pipelines, MLOps (MLflow, DVC, Docker), NLP, FastAPI, or building production-grade AI systems<br>I'm a 4th-sem AI/ML student with a 9.1 CGPA who builds production-grade ML systems
+<br><br>I build ML/AI projects involving NLP, LLMs, RAG pipelines, or MLOps infrastructure<br>Scaling transformer inference and deploy LLM-powered apps<br>LangChain, RAG architectures, Generative AI, and LLM fine-tuning<br>ML pipelines, MLOps (MLflow, DVC, Docker), NLP, FastAPI, or building production-grade AI systems<br>I'm a 4th-sem AI/ML student with a 9.1 CGPA who builds production-grade ML systems
 
 
 ## 🌐 Socials:
